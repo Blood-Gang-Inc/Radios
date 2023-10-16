@@ -11,14 +11,12 @@
         <div class="section">
             <h2>Learn How to Use Roblox Boomboxes</h2>
             <div class="button-container">
-                <a class="button" href="https://robloxdev.com/articles/How-to-Use-Boombox">Get Started</a>
+                <a class="button" href="https://www.youtube.com/watch?v=0rBrQyF-UKQ">Get Started</a>
             </div>
         </div>
         <div class="section">
             <h2>Showcase</h2>
             <img src="https://static.wikia.nocookie.net/roblox/images/3/34/Golden_Super_Fly_Boombox.png/revision/latest?cb=20160610032126" alt="Boombox Image 1">
-            <img src="boombox_image2.jpg" alt="Boombox Image 2">
-            <img src="boombox_image3.jpg" alt="Boombox Image 3">
         </div>
         <div class="section">
             <h2>License</h2>
