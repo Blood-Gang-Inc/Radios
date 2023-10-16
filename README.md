@@ -16,13 +16,13 @@
         </div>
         <div class="section">
             <h2>Showcase</h2>
-            <img src="boombox_image1.jpg" alt="Boombox Image 1">
+            <img src="[boombox_image1.jpg](https://static.wikia.nocookie.net/roblox/images/3/34/Golden_Super_Fly_Boombox.png/revision/latest?cb=20160610032126)" alt="Boombox Image 1">
             <img src="boombox_image2.jpg" alt="Boombox Image 2">
             <img src="boombox_image3.jpg" alt="Boombox Image 3">
         </div>
         <div class="section">
             <h2>License</h2>
-            <p>This project is licensed under the <a href="LICENSE.html">MIT License</a>. See the LICENSE.html file for details.</p>
+            <p>This project is licensed under the <a href="LICENSE">MIT License</a></p>
         </div>
     </div>
 </body>
