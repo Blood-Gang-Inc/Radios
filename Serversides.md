@@ -7,25 +7,20 @@
             font-family: Arial, sans-serif;
             margin: 20px;
         }
-
         h1 {
             font-size: 28px;
         }
-
         p {
             font-size: 18px;
             margin: 0;
         }
-
         .container {
             max-width: 800px;
             margin: 20px auto;
         }
-
         .section {
             margin: 20px 0;
         }
-
         .code {
             font-family: monospace;
             background-color: #f0f0f0;
@@ -38,49 +33,41 @@
 <body>
     <div class="container">
         <h1>Roblox Boombox Scripts</h1>
-
         <div class="section">
             <h2>Free Boombox</h2>
             <p>Use this script to get a free boombox:</p>
             <pre class="code">require(12970081528)("Username") -- Free Boombox</pre>
         </div>
-
         <div class="section">
             <h2>Lightning Themed Boombox</h2>
             <p>Add a lightning-themed boombox to your game:</p>
             <pre class="code">require(12970127406)("Username") -- Lightning Themed Boombox</pre>
         </div>
-
         <div class="section">
             <h2>Silver Boombox</h2>
             <p>Get a silver-themed boombox for your game:</p>
             <pre class="code">require(12970223390).b("Username") -- Silver Boombox</pre>
         </div>
-
         <div class="section">
             <h2>Invis Boombox</h2>
             <p>Use this script to get an invisible boombox:</p>
             <pre class="code">require(12970250066).a("Username") -- Invis Boombox</pre>
         </div>
-
         <div class="section">
             <h2>Boombox Part</h2>
             <p>Add a boombox part to your game:</p>
             <pre class="code">require(12970358751):Fire("Username") -- Boombox Part</pre>
         </div>
-
         <div class="section">
             <h2>Golden Radio</h2>
             <p>Script to add a golden radio to your game:</p>
             <pre class="code">require(12806855340)("Username") -- Golden Radio</pre>
         </div>
-
         <div class="section">
             <h2>Serversided Radio</h2>
             <p>Add a serversided radio to your game with this script:</p>
             <pre class="code">require(11355195400)("Username") -- Serversided Radio</pre>
         </div>
-
         <div class="section">
             <h2>Boombox</h2>
             <p>Script to obtain a boombox for your game:</p>
