@@ -1,36 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        h1 {
-            font-size: 28px;
-        }
-        p {
-            font-size: 18px;
-            margin: 0;
-        }
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-        }
-        .section {
-            margin: 20px 0;
-        }
-        .code {
-            font-family: monospace;
-            background-color: #f0f0f0;
-            padding: 5px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
+ <div class="container">
         <h1>Roblox Boombox Scripts</h1>
         <div class="section">
             <h2>Free Boombox</h2>
